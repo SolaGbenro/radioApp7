@@ -1,0 +1,5 @@
+.env
+.idea/
+__pycache__/
+upload_to_git/
+test*
